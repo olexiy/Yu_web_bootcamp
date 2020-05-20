@@ -1,4 +1,5 @@
 # Projects from the "The Complete 2020 Web Development Bootcamp" by Angela Yu
+Some bigger projects are in separate repositories ans are linked in documentation.
 
 ## Personal webpage
 Github:
